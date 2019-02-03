@@ -26,6 +26,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Describe any challenges encountered while building the app.
+
 While making the custom MovieCell, I was unable to get the cell to display any of the data from the API. After reviewing my code, 
 I realized the class and identifier name for the cell was different than the identifier I used to grab the cell in the MovieViewController
 class.
