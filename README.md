@@ -12,18 +12,15 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
 #### BONUS
-- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [X] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
+<img src="http://g.recordit.co/b6Vq5XBpA5.gif" width=250><br>
 <img src="http://g.recordit.co/ef1Ib8ONJ1.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
-
----
+Keeping track of the outlets to which class was a little difficult to keep track of for me.
 
 ## Flix Part 1
 
@@ -40,7 +37,7 @@ Describe any challenges encountered while building the app.
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
-<img src='http://recordit.co/ezlVQxRiOm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> <br>
+<img src='http://g.recordit.co/7HAGHOZVX3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> <br>
 
 ### Notes
 Describe any challenges encountered while building the app.
