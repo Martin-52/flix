@@ -54,7 +54,8 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         //let cell = UITableViewCell()
         let cell = tableView.dequeueReusableCell(withIdentifier: "MovieCell") as! MovieCell
-        
+        tableView.rowHeight = UITableView.automaticDimension
+        tableView.estimatedRowHeight = 50
         
         let movie = movies[indexPath.row]
         let title = movie["title"] as! String
